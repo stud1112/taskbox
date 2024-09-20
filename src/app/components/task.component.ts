@@ -1,7 +1,6 @@
 
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { Task } from '../models/task.model';
-
 @Component({
   selector: 'app-task',
   template: `
@@ -32,6 +31,7 @@ import { Task } from '../models/task.model';
           id="title-{{ task?.id }}"
           name="title-{{ task?.id }}"
           placeholder="Input title"
+         style="background-color: red;"
         />
       </label>
       <button
