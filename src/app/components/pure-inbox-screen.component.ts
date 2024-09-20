@@ -14,7 +14,7 @@ import { Component, Input } from '@angular/core';
 
     <div *ngIf="!error" class="page lists-show">
       <nav>
-        <h1 class="title-page">Taskbox 123</h1>
+        <h1 class="title-page">Taskbox</h1>
       </nav>
       <app-task-list></app-task-list>
     </div>
