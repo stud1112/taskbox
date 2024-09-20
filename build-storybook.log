@@ -1,0 +1,279 @@
+
+> taskbox@0.2.0 build-storybook
+> ng run taskbox:build-storybook --output-dir=C:\Users\ckeh\AppData\Local\Temp\chromatic--15520-3iFUnhtymV6a
+
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.23
+
+TypeScript version used by Compodoc : 5.2.2
+
+TypeScript version of current project : 5.2.2
+
+Node.js version : v20.13.1
+
+Operating system : Windows 10
+
+[19:10:19] No configuration file found, switching to CLI flags.
+[19:10:19] Using tsconfig file : C:\Users\ckeh\Documents\Angular Projects\taskbox\.storybook\tsconfig.json
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/.storybook/preview.ts
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/favicon.ico
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/index.html
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/main.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/polyfills.ts
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/styles.css
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/app.component.css
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/app.component.html
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/app.component.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/app.module.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/environments/environment.prod.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/environments/environment.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/button.component.ts
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/button.css
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Button.stories.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/header.component.ts
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/header.css
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Header.stories.ts
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Introduction.mdx
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/page.component.ts
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/page.css
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Page.stories.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/User.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/inbox-screen.component.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/pure-inbox-screen.component.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/pure-task-list.component.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/pure-task-list.stories.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task-list.component.ts
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task.component.css
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task.component.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task.module.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task.stories.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/models/task.model.ts
+[19:10:19] Including      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/state/task.state.ts
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/icon/percolate.eot
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/icon/percolate.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/icon/percolate.ttf
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/assets/icon/percolate.woff
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/assets/code-brackets.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/assets/colors.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/assets/comments.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/assets/direction.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/assets/flow.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/assets/plugin.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/assets/repo.svg
+[19:10:19] Excluding      : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/assets/stackalt.svg
+[19:10:19] Searching package.json file
+[19:10:19] package.json file found
+[19:10:19] Processing package.json dependencies
+[19:10:19] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[19:10:19] README.md file found
+[19:10:19] Error during C:\Users\ckeh\Documents\Angular Projects\taskbox\CHANGELOG read
+[19:10:19] Continuing without CHANGELOG.md file
+[19:10:19] Error during C:\Users\ckeh\Documents\Angular Projects\taskbox\CONTRIBUTING read
+[19:10:19] Continuing without CONTRIBUTING.md file
+[19:10:19] LICENSE.md file found
+[19:10:19] Error during C:\Users\ckeh\Documents\Angular Projects\taskbox\TODO read
+[19:10:19] Continuing without TODO.md file
+[19:10:19] Get dependencies data
+[19:10:19] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/.storybook/preview.ts
+[19:10:19] found          : preview
+[19:10:19] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/main.ts
+[19:10:19] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/polyfills.ts
+[19:10:19] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/app.component.ts
+[19:10:20] found          : AppComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/app.module.ts
+[19:10:20] found          : AppModule
+[19:10:20]                : - imports:
+[19:10:20]                : 	- BrowserModule
+[19:10:20]                : 	- TaskModule
+[19:10:20]                : 	- NgxsModule
+[19:10:20]                : 	- NgxsReduxDevtoolsPluginModule
+[19:10:20]                : 	- NgxsLoggerPluginModule
+[19:10:20]                : - declarations:
+[19:10:20]                : 	- AppComponent
+[19:10:20]                : 	- InboxScreenComponent
+[19:10:20]                : 	- PureInboxScreenComponent
+[19:10:20]                : - bootstrap:
+[19:10:20]                : 	- AppComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/environments/environment.prod.ts
+[19:10:20] found          : environment
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/environments/environment.ts
+[19:10:20] found          : environment
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/button.component.ts
+[19:10:20] found          : ButtonComponent
+[19:10:20]                : - imports:
+[19:10:20]                : 	- CommonModule
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Button.stories.ts
+[19:10:20] found          : meta
+[19:10:20] found          : Story
+[19:10:20] found          : Primary
+[19:10:20] found          : Secondary
+[19:10:20] found          : Large
+[19:10:20] found          : Small
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/header.component.ts
+[19:10:20] found          : HeaderComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Header.stories.ts
+[19:10:20] found          : meta
+[19:10:20] found          : Story
+[19:10:20] found          : LoggedIn
+[19:10:20] found          : LoggedOut
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/page.component.ts
+[19:10:20] found          : PageComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Page.stories.ts
+[19:10:20] found          : meta
+[19:10:20] found          : Story
+[19:10:20] found          : LoggedOut
+[19:10:20] found          : LoggedIn
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/User.ts
+[19:10:20] found          : User
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/inbox-screen.component.ts
+[19:10:20] found          : InboxScreenComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/pure-inbox-screen.component.ts
+[19:10:20] found          : PureInboxScreenComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[19:10:20] found          : meta
+[19:10:20] found          : Story
+[19:10:20] found          : Default
+[19:10:20] found          : Error
+[19:10:20] found          : WithInteractions
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/pure-task-list.component.ts
+[19:10:20] found          : PureTaskListComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/pure-task-list.stories.ts
+[19:10:20] found          : meta
+[19:10:20] found          : Story
+[19:10:20] found          : Default
+[19:10:20] found          : WithPinnedTasks
+[19:10:20] found          : Loading
+[19:10:20] found          : Empty
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task-list.component.ts
+[19:10:20] found          : TaskListComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task.component.ts
+[19:10:20] found          : TaskComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task.module.ts
+[19:10:20] found          : TaskModule
+[19:10:20]                : - imports:
+[19:10:20]                : 	- CommonModule
+[19:10:20]                : 	- NgxsModule
+[19:10:20]                : - exports:
+[19:10:20]                : 	- TaskComponent
+[19:10:20]                : 	- TaskListComponent
+[19:10:20]                : - declarations:
+[19:10:20]                : 	- TaskComponent
+[19:10:20]                : 	- TaskListComponent
+[19:10:20]                : 	- PureTaskListComponent
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/task.stories.ts
+[19:10:20] found          : actionsData
+[19:10:20] found          : meta
+[19:10:20] found          : Story
+[19:10:20] found          : Default
+[19:10:20] found          : Pinned
+[19:10:20] found          : Archived
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/models/task.model.ts
+[19:10:20] found          : Task
+[19:10:20] parsing        : C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/state/task.state.ts
+[19:10:20] found          : actions
+[19:10:20] found          : ArchiveTask
+[19:10:20] found          : PinTask
+[19:10:20] found          : AppError
+[19:10:20] found          : defaultTasks
+[19:10:20] found          : TaskStateModel
+[19:10:20] found          : TasksState
+[19:10:20] -------------------
+[19:10:20] Project statistics 
+[19:10:20] - files      : 26
+[19:10:20] - module     : 2
+[19:10:20] - component  : 9
+[19:10:20] - injectable : 1
+[19:10:20] - class      : 3
+[19:10:20] - interface  : 3
+[19:10:20] -------------------
+[19:10:20] Prepare components
+[19:10:20]  ButtonComponent has styleUrls, include them
+[19:10:20]  HeaderComponent has styleUrls, include them
+[19:10:20]  PageComponent has styleUrls, include them
+[19:10:20] Prepare modules
+[19:10:20] Prepare injectables
+[19:10:20] Prepare classes
+[19:10:20] Prepare interfaces
+[19:10:20] Prepare miscellaneous
+[19:10:20] Process documentation coverage report
+[19:10:20] Generating documentation in export format json
+[19:10:20] Documentation generated in ./ in 0.665 seconds
+info => Cleaning outputDir: C:\Users\ckeh\AppData\Local\Temp\chromatic--15520-3iFUnhtymV6a
+
+info => Loading presets
+info => Building manager..
+info => Manager built (324 ms)
+info => Building preview..
+info => Copying static files: C:\Users\ckeh\Documents\Angular Projects\taskbox\node_modules\@storybook\manager\static at C:\Users\ckeh\AppData\Local\Temp\chromatic--15520-3iFUnhtymV6a\sb-common-assets
+info Using Babel compiler
+info Addon-docs: using MDX2
+info => Using implicit CSS loaders
+info => Using angular browser target options from "taskbox:build"
+info => Using angular project with "tsConfig:C:\Users\ckeh\Documents\Angular Projects\taskbox\.storybook\tsconfig.json"
+info => Using default Webpack5 setup
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/app/components/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/polyfills.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/ckeh/Documents/Angular Projects/taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   493.1f797d15.iframe.bundle.js (816 KiB)
+WARN   841.2ddd4272.iframe.bundle.js (583 KiB)
+WARN   224.27d74c60.iframe.bundle.js (2.53 MiB)
+WARN   466.9395e2e7.iframe.bundle.js (880 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (2.64 MiB)
+WARN       runtime~main.398b2d1c.iframe.bundle.js
+WARN       224.27d74c60.iframe.bundle.js
+WARN       main.72b66c21c40c5a5549a1.css
+WARN       main.9e96368c.iframe.bundle.js
+WARN 
+info => Preview built (58 s)
+info => Output directory: C:\Users\ckeh\AppData\Local\Temp\chromatic--15520-3iFUnhtymV6a

@@ -50,3 +50,5 @@ export const Error: Story = {
      await fireEvent.click(canvas.getByLabelText('pinTask-3'));
    },
  };
+
+ ///https://66ec4cabdeef656242f813e3-hmpmvnycpq.chromatic.com/
